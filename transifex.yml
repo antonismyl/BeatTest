@@ -1,0 +1,7 @@
+git:
+  filters:
+  - filter_type: file
+    file_format: STRINGS
+    source_language: en
+    source_file: Source/Localizable.strings
+    translation_files_expression: 'Translations/<lang>.strings/'
